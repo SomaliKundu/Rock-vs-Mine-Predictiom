@@ -1,1 +1,1 @@
-# Rock-vs-Mine-Predictiom
+# Rock-vs-Mine-Prediction
